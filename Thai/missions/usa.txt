@@ -1,20 +1,20 @@
 [config]
 name  = usa
-guiname = "United States of America"
-description = "The United States of America is the world's third or fourth largest country by total area, and the third most populous country in the world. Americans are a racially and ethnically diverse population that has been shaped through centuries of immigration.The United States is a federal republic and a representative democracy. It is a founding member of the United Nations, World Bank, International Monetary Fund and NATO. The USA is a permanent member of the United Nations Security Council."
+guiname = "สหรัฐอเมริกา"
+description = "สหรัฐอเมริกาเป็นประเทศที่ใหญ่เป็นอันดับสามหรือสี่ของโลกตามพื้นที่ทั้งหมด และเป็นประเทศที่มีประชากรมากเป็นอันดับสามของโลก ชาวอเมริกันเป็นประชากรที่มีความหลากหลายทางเชื้อชาติและชาติพันธุ์ซึ่งได้รับการหล่อหลอมผ่านการอพยพมาหลายศตวรรษ สหรัฐอเมริกาเป็นสหพันธรัฐสาธารณรัฐและเป็นประชาธิปไตยแบบตัวแทน เป็นสมาชิกผู้ก่อตั้งสหประชาชาติ ธนาคารโลก กองทุนการเงินระหว่างประเทศ และองค์การนาโต้ สหรัฐอเมริกาเป็นสมาชิกถาวรของคณะมนตรีความมั่นคงแห่งสหประชาชาติ"
 
-jobtitle = "President"
+jobtitle = "ประธานาธิบดี"
 
 [stats]
-Population: = "328 million (Jan 2020)"
-Size: = "9.8 million sq km"
-Largest City: = "New York City"
-Agricultural Land: = "44.5% of total"
-Ethnicity: = "76.5% White (18.3% Latino) 13.4% Black"
-National Anthem: = "The Star-Spangled Banner"
-Top Tourist Destination: = "The Grand Canyon"
-Most popular food: = "Cheeseburger"
-Biggest Industry: = "Real Estate"
+ประชากร: = "328 ล้าน (มกรา 2020)"
+ขนาด: = "9.8 ล้าน ตร.กม"
+เมืองที่ใหญ่ที่สุด: = "นิวยอร์กซิตี้"
+ที่ดินเพื่อเกษตรกรรม: = "44.5% จากทั้งหมด"
+เชื้อชาติ: = "76.5% คนขาว (18.3% คนลาติน) 13.4% คนผิวสี"
+เพลงชาติ: = "The Star-Spangled Banner"
+สถานที่ท่องเที่ยวยอดนิยม: = "แกรนด์แคนยอน"
+อาหารยอดนิยม: = "ชีสเบอร์เกอร์"
+อุตสาหกรรมที่ใหญ่ที่สุด: = "อสังหาริมทรัพย์"
 
 [jobs]
 FOREIGNPOLICY = "Secretary of State"

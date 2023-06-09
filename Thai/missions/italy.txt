@@ -1,18 +1,18 @@
 [config]
 name  = italy
-guiname = "Italy"
-description = "Italy is a parliamentary republic with a multi-party system. Italy became a democracy in 1946, when the monarchy was abolished by popular referendum. Italy operates a a mixed system, with 37% of seats allocated using a first past the post electoral system and 61% using a proportional method, with one round of voting. As recently as 2019, due to frequent failures of coalitions, Italy was considered a flawed democracy."
-jobtitle = "President"
+guiname = "อิตาลี"
+description = "อิตาลีเป็นสาธารณรัฐแบบรัฐสภาที่มีระบบหลายพรรค อิตาลีกลายเป็นประชาธิปไตยในปี 2489 เมื่อระบอบกษัตริย์ถูกยกเลิกโดยการลงประชามติของประชาชน อิตาลีใช้ระบบผสม โดย 37% ของที่นั่งจัดสรรโดยใช้ระบบการเลือกตั้งหลังการเลือกตั้งครั้งแรก และ 61% ใช้วิธีสัดส่วน โดยลงคะแนนหนึ่งรอบ เมื่อเร็ว ๆ นี้ในปี 2019 เนื่องจากความล้มเหลวของกลุ่มพันธมิตรบ่อยครั้ง อิตาลีจึงถูกมองว่าเป็นประชาธิปไตยที่มีข้อบกพร่อง"
+jobtitle = "ประธานาธิบดี"
 
 [stats]
-Population:= 	60,461,826 people at mid 2020 according to UN data.
-Size:=	301,340 km²
+ประชากร:= 60,461,826 คน ณ กลางปี 2020 ตามข้อมูลของ UN
+ขนาด:= 301,340 กม.²
 
-Religion:= 	Catholic (69%), Eastern Orthodox (4%), Atheism and Agnostic (14%). 
-Exports:= 	Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel.
-World Leader:=	Heritage (culture, history, food). The most UNESCO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Coffee, football, healthy Mediterranean diet, family.
+ศาสนา:= คาทอลิก (69%), ออร์โธดอกซ์ตะวันออก (4%), อเทวนิยมและไม่เชื่อเรื่องพระเจ้า (14%)
+การส่งออก:= เครื่องจักร ได้แก่ คอมพิวเตอร์ ยานพาหนะและชิ้นส่วน ยา เครื่องจักรไฟฟ้า พลาสติก อัญมณีและโลหะมีค่า ของทำด้วยเหล็กหรือเหล็กกล้า
+ผู้นำระดับโลก:= มรดก (วัฒนธรรม ประวัติศาสตร์ อาหาร) เว็บไซต์ยูเนสโกมากที่สุด ผู้ผลิตไวน์รายใหญ่ที่สุดในโลก ประเทศแรกที่มีบทเรียนเรื่องการเปลี่ยนแปลงสภาพภูมิอากาศภาคบังคับสำหรับเด็กทุกคน
+สมาชิกของ:= สหภาพยุโรป สหประชาชาติ นาโต้ OECD
+ความคลั่งไคล้ในชาติ = กาแฟ ฟุตบอล อาหารเมดิเตอร์เรเนียนเพื่อสุขภาพ ครอบครัว
 
 
 

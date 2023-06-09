@@ -1,18 +1,17 @@
 [config]
 name  = spain
-guiname = "Spain"
-description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
-jobtitle = "Prime Minister"
+guiname = "สเปน"
+description = "การเลือกตั้งตามระบอบประชาธิปไตยครั้งแรกของราชอาณาจักรสเปนเกิดขึ้นในเดือนมิถุนายน พ.ศ. 2520 หลังจากการสิ้นพระชนม์ของฟรานซิสโก ฟรังโก ในปี พ.ศ. 2518 ซึ่งปกครองสเปนภายใต้ระบอบเผด็จการตั้งแต่ปี พ.ศ. 2482 ในปี พ.ศ. 2521 รัฐธรรมนูญประชาธิปไตยฉบับใหม่ได้รับการประกาศใช้และรับรองโดยการลงประชามติ สเปนได้รับการประกาศให้เป็นระบอบรัฐสภาภายใต้รัฐธรรมนูญโดยมีกษัตริย์ฮวน คาร์ลอสที่ 1 เป็นประมุขและมีสิทธิเลือกตั้งโดยสากล"
+jobtitle = "นายกรัฐมนตรี"
 
 [stats]
-Population:=	46,754,778 (2020) according to UN data.
-Size:=	505,990 km2	
-Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
-Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
-World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Long lunch breaks, football, healthy Mediterranean diet, family.
-
+ประชากร:= 46,754,778 (2020) ตามข้อมูลของสหประชาชาติ.
+ขนาด:=	505,990 ตร.กม	
+ศาสนา:= 	68% คาทอลิก, 2.6% ศรัทธาอื่น ๆ และ 28% ระบุว่าเป็นผู้ไม่มีพระเจ้า.
+การส่งออก:= 	เครื่องจักร ยานยนต์; อาหาร ยา ยารักษาโรค สินค้าอุปโภคบริโภคอื่นๆ
+ผู้นำโลก = สุขภาพ การบริจาคอวัยวะ แหล่งมรดกโลกที่สูงเป็นอันดับสามของยูเนสโก ผลิตและส่งออกพลังงานทดแทน
+สมาชิกของ:= สหภาพยุโรป สหประชาชาติ นาโต้ OECD
+ความคลั่งไคล้ในชาติ:= พักกลางวันนานๆ ฟุตบอล อาหารเมดิเตอร์เรเนียนเพื่อสุขภาพ ครอบครัว
 
 
 

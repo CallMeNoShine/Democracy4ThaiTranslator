@@ -1,18 +1,18 @@
 [config]
 name  = japan
 guiname = "Japan"
-description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
-jobtitle = "Prime Minister"
+description = "ญี่ปุ่นเป็นระบอบรัฐธรรมนูญที่มีรัฐสภาโดยมีจักรพรรดิและรัฐสภาสองสภา จักรพรรดิองค์ปัจจุบันคือ นะรุฮิโตะ หลังจากการสละราชสมบัติของอะกิฮิโตะในปี 2019 สภาผู้แทนราษฎรมี 465 ที่นั่ง และสภาสูงของสภามี 245 ที่นั่ง สภาผู้แทนราษฎรต้องมีอายุอย่างน้อย 25 ปีและสมาชิกสภาอย่างน้อย 30 ปี อายุขั้นต่ำในการลงคะแนนเสียงลดลงจาก 20 ปีเป็น 18 ปีในปี 2559 ญี่ปุ่นแบ่งออกเป็น 47 จังหวัด แต่ละจังหวัดดูแลโดยผู้ว่าการที่ได้รับการเลือกตั้ง"
+jobtitle = "นายกรัฐมนตรี"
 
 [stats]
-Population:= 	"126.3 million"
-Size:=		"377,975 sq km"
-Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
-Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
-Exports:= 	"Cars, Iron, Steel, Semiconductors".
-World Leader:=	"Robotics production"
-Member of:=	"United Nations, OECD, WTO, G7"
-National obsessions:=	"Video Games, Animation"
+ประชากร:= "126.3 ล้านคน"
+ขนาด:= "377,975 ตร.กม."
+เชื้อชาติ:= "98.1% ญี่ปุ่น 0.5% จีน 0.4% เกาหลี"
+ศาสนา:= "ศาสนาชินโต (70.4%) ศาสนาคริสต์ (1.5%)
+สินค้าส่งออก= "รถยนต์ เหล็ก เหล็กกล้า สารกึ่งตัวนำ"
+ผู้นำระดับโลก = "การผลิตหุ่นยนต์"
+สมาชิกของ: = "สหประชาชาติ OECD องค์การการค้าโลก G7"
+ความหลงใหลในระดับชาติ = "วิดีโอเกม แอนิเมชั่น"
 
 
 
