@@ -1,16 +1,16 @@
 [config]
 name  = germany
-guiname = "Germany"
-description = "The Federal Republic of Germany, more commonly known as Germany,  is a Federal Parliamentary Republic uniting the sixteen states under the leadership of the President (largely ceremonial) and the Federal Chancellor. Germany has a strong, growing economy which is one of the best in the world. Germany is a leading member of the European Union. Germany first became a democracy in 1919, but was ruled as a dictatorship from 1933. After World War II which ended in 1945 and some years of confusion, it reverted back to a democracy in 1949."
-jobtitle = "Chancellor"
+guiname = "เยอรมันนี"
+description = "สหพันธ์สาธารณรัฐเยอรมนี หรือที่เรียกกันทั่วไปว่าเยอรมนี เป็นสหพันธ์สาธารณรัฐที่รวมรัฐทั้งสิบหกรัฐเข้าด้วยกันภายใต้การนำของประธานาธิบดี (ส่วนใหญ่ในทางพิธีการ) และนายกรัฐมนตรีแห่งสหพันธรัฐ เยอรมนีมีเศรษฐกิจที่แข็งแกร่งและเติบโตซึ่งเป็นหนึ่งในประเทศที่ดีที่สุดในโลก เยอรมนีเป็นสมาชิกชั้นนำของสหภาพยุโรป เยอรมนีกลายเป็นประชาธิปไตยครั้งแรกในปี พ.ศ. 2462 แต่ถูกปกครองแบบเผด็จการตั้งแต่ปี พ.ศ. 2476 หลังจากสงครามโลกครั้งที่ 2 ซึ่งสิ้นสุดในปี พ.ศ. 2488 และความสับสนวุ่นวายหลายปี เยอรมนีได้เปลี่ยนกลับเป็นระบอบประชาธิปไตยในปี พ.ศ. 2492"
+jobtitle = "นายกรัฐมนตรี"
 
 [stats]
-Population: = "83,783,942 (2020)"
-Size: = "357,386 sq km"
-Religion: = "None 39%, Roman Catholic 27%, Protestant 25%, Islam 5%, "
-Exports: = "Vehicles, machinery, chemicals, electronics, pharmaceuticals, metals, food."
-World Leader: = "Climate and energy policies, number of zoos (>400), exports"
-Member of: = "Eurozone, EU single market, NATO, G4"
+ประชากร: = "83,783,942 (2020)"
+ขนาด: = "357,386 ตร.กม"
+ศาสนา: = "ไม่นับถือศาสนา 39%, โรมันคาทอลิก 27%, โปรเตสแตนต์ 25%, อิสลาม 5%, "
+การส่งออก: = "ยานพาหนะ, เครื่องจักร สารเคมี, อุปกรณ์ไฟฟ้า, เภสัชกรรม, เหล็ก, อาหาร."
+ผู้นำโลก: = "นโยบายด้านสภาพอากาศและพลังงาน, จำนวนสวนสัตว์ (>400), การส่งออก"
+สมาชิกของ: = "ยูโรโซน, ตลาดเดียวของสหภาพยุโรป, นาโต้, G4"
 
 
 

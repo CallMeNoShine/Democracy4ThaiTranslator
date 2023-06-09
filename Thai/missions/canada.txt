@@ -1,17 +1,16 @@
 [config]
 name  = canada
-guiname = "Canada"
-description = "Canada is a Federal parliamentary democracy with a constitutional monarchy. The Prime Minister is elected. Formally a colony of Great Britain, the new nation of Canada first became a democracy in 1867. In 1919 women won the vote but it wasn't until 1960 when all Canadian citizens, irrespective of ethnicity, could vote and universal suffrage became law."
-
-jobtitle = "Prime Minister"
+guiname = "แคนาดา"
+description = "แคนาดาเป็นระบอบประชาธิปไตยแบบรัฐสภาของรัฐบาลกลางที่มีพระมหากษัตริย์เป็นประมุข นายกรัฐมนตรีมาจากการเลือกตั้ง เดิมเป็นอาณานิคมของบริเตนใหญ่ ประเทศใหม่ของแคนาดากลายเป็นประชาธิปไตยในปี 2410 ในปี 2462 ผู้หญิงชนะการเลือกตั้ง แต่จนถึงปี 2503 พลเมืองแคนาดาทุกคนสามารถลงคะแนนเสียงได้โดยไม่คำนึงถึงเชื้อชาติ และสิทธิออกเสียงลงคะแนนสากลกลายเป็นกฎหมาย"
+jobtitle = "นายกรัฐมนตรี"
 
 [stats]
-Population: = "37.742,154 (2020)"
-Size: = "9,984,670 sq km"
-Religion: = "69.3% Christian, 24.9% Unaffiliated, 1.2% Islam, 1.0% Hinduism,1.4% Sikhism"
-Exports: = "Oil, wood, refined fuel, gold, metals and gems"
-World Leader:  = "Longest coastline, quality of life, transparency of government and business"
-National obsessions: =  "Maple Syrup, Ice Hockey, Politeness, Diversity"
+ประชากร: = "37.742,154 (2020)"
+ขนาด: = "9,984,670 ตร.กม"
+ศาสนา: = "69.3% คริสเตียน, 24.9% ไม่มีศาสนา, 1.2% อิสลาม, 1.0% ฮินดู,1.4% ศาสนาซิกข์"
+การส่งออก: = "น้ำมัน, ไม้,เชื้อเพลิงบริสุทธิ์, ทอง, โลหะและอัญมณี"
+ผู้นำระดับโลก:  = "แนวชายฝั่งที่ยาวที่สุด, คุณภาพชีวิต, ความโปร่งใสของรัฐบาลและธุรกิจ"
+ความหลงใหลในระดับชาติ: =  "ไซรัปเมเปิล, ฮอคกี้น้ำแข็ง, ความสุภาพ, ความหลากหลาย"
 
 
 
